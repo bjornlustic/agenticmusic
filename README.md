@@ -11,6 +11,12 @@ This script allows you to replace the default sounds in applications like Cursor
 -   Revert to original sounds easily.
 -   Simple command-line interface.
 
+## Links
+
+- [Google Drive folder with all sounds + short video](https://drive.google.com/drive/folders/1_BsgC3xtmDLgL_UVjNv7jqIsoaq6mm0Z?dmr=1&ec=wgc-drive-hero-goto)
+- [adaStartup ](https://github.com/bjornlustic/adaStartup) (a companion app to platy a sound when the app starts)
+
+
 ## Setup
 
 1.  **Place Custom Sounds:**
