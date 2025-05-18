@@ -1,6 +1,6 @@
 # Agentic Music
 
-This script allows you to replace the default sounds in applications like Cursor, Windsurf, and Visual Studio Code with your own custom sounds. It works by creating symbolic links from the application's sound directories to your custom sound files.
+This script allows you to replace the default sounds in applications like Cursor, Windsurf, and Visual Studio Code with your own custom sounds. It works by creating symbolic links from the application's sound directories to your custom sound files. Turn on the sounds in the menu at VS Code Settings -> Accessibility -> Signals and turn them all to on.
 
    ![Application Sound Replacement Menu](assets/app_screenshot.png)
 
@@ -73,6 +73,7 @@ The paths for these applications are hardcoded in the script. If your applicatio
 ## Troubleshooting
 
 *   **Permission Errors:** Run the script with `sudo`.
+*   **No Sounds Playing?:** Turn on the sounds in the menu at VS Code Settings -> Accessibility -> Signals and turn them all to on.
 *   **"Sounds directory not found"**: Make sure you have created a `sounds` directory in the same location as the script and placed your custom audio files there.
 *   **"No sound files found in the local 'sounds' directory"**: Ensure your custom sound files are directly inside the `sounds` directory, not in subfolders.
 *   **Sounds not changing after running:**
